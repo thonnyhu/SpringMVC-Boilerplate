@@ -26,6 +26,7 @@ import com.google.code.kaptcha.servlet.KaptchaExtend;
 
 /**
  * Created by apple on 16/4/29.
+ * https://segmentfault.com/a/1190000005039478
  */
 @RestController("loginController")
 public class LoginController extends KaptchaExtend {
